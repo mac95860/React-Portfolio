@@ -1,0 +1,16 @@
+.navbar{
+    color: #f4f4ef;
+    background:  linear-gradient(to top, #08293f 15%, #06263b 100%);
+}
+.nav-item :hover{
+    background: #596a6163;
+    transition: .5s;
+    color: #f4f4ef !important;
+    text-decoration: underline !important;
+    text-decoration-color: #9d4316 !important;
+}
+
+a{
+    color: #FAFAFA;
+    text-decoration: underline;
+}

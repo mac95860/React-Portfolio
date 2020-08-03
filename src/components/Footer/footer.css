@@ -1,0 +1,10 @@
+a{
+    color: #FAFAFA;
+    text-decoration: underline;
+}
+
+.fixed-bottom{
+    height: 60px;
+    color: #F4F4EF; 
+    background: #06263b !important;
+}
