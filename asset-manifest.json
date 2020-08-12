@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ReactEmployeeTracker/static/css/main.81006424.chunk.css",
-    "main.js": "/ReactEmployeeTracker/static/js/main.2fe2f1ae.chunk.js",
-    "main.js.map": "/ReactEmployeeTracker/static/js/main.2fe2f1ae.chunk.js.map",
-    "runtime-main.js": "/ReactEmployeeTracker/static/js/runtime-main.6294b3c9.js",
-    "runtime-main.js.map": "/ReactEmployeeTracker/static/js/runtime-main.6294b3c9.js.map",
-    "static/js/2.57cb7ac9.chunk.js": "/ReactEmployeeTracker/static/js/2.57cb7ac9.chunk.js",
-    "static/js/2.57cb7ac9.chunk.js.map": "/ReactEmployeeTracker/static/js/2.57cb7ac9.chunk.js.map",
-    "index.html": "/ReactEmployeeTracker/index.html",
-    "precache-manifest.01941c391812aa97a446fa30af4ae529.js": "/ReactEmployeeTracker/precache-manifest.01941c391812aa97a446fa30af4ae529.js",
-    "service-worker.js": "/ReactEmployeeTracker/service-worker.js",
-    "static/css/main.81006424.chunk.css.map": "/ReactEmployeeTracker/static/css/main.81006424.chunk.css.map",
-    "static/js/2.57cb7ac9.chunk.js.LICENSE.txt": "/ReactEmployeeTracker/static/js/2.57cb7ac9.chunk.js.LICENSE.txt",
-    "static/media/Capture.JPG": "/ReactEmployeeTracker/static/media/Capture.91f5b96d.JPG",
-    "static/media/Inside-Outside.JPG": "/ReactEmployeeTracker/static/media/Inside-Outside.135049c0.JPG",
-    "static/media/NoteTaker.JPG": "/ReactEmployeeTracker/static/media/NoteTaker.3a47ee1b.JPG",
-    "static/media/Password-Gen.JPG": "/ReactEmployeeTracker/static/media/Password-Gen.5e6f265c.JPG",
-    "static/media/Team Creator.png": "/ReactEmployeeTracker/static/media/Team Creator.dd752a45.png",
-    "static/media/me.jpg": "/ReactEmployeeTracker/static/media/me.f2d56e10.jpg",
-    "static/media/weatherApp.JPG": "/ReactEmployeeTracker/static/media/weatherApp.48f47454.JPG"
+    "main.css": "/React-Portfolio/static/css/main.81006424.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.dc9e7ea4.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.dc9e7ea4.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.57cb7ac9.chunk.js": "/React-Portfolio/static/js/2.57cb7ac9.chunk.js",
+    "static/js/2.57cb7ac9.chunk.js.map": "/React-Portfolio/static/js/2.57cb7ac9.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.d901e0bcfca72be09d8ca402f3a4a954.js": "/React-Portfolio/precache-manifest.d901e0bcfca72be09d8ca402f3a4a954.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.81006424.chunk.css.map": "/React-Portfolio/static/css/main.81006424.chunk.css.map",
+    "static/js/2.57cb7ac9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.57cb7ac9.chunk.js.LICENSE.txt",
+    "static/media/Capture.JPG": "/React-Portfolio/static/media/Capture.91f5b96d.JPG",
+    "static/media/Inside-Outside.JPG": "/React-Portfolio/static/media/Inside-Outside.135049c0.JPG",
+    "static/media/NoteTaker.JPG": "/React-Portfolio/static/media/NoteTaker.3a47ee1b.JPG",
+    "static/media/Password-Gen.JPG": "/React-Portfolio/static/media/Password-Gen.5e6f265c.JPG",
+    "static/media/Team Creator.png": "/React-Portfolio/static/media/Team Creator.dd752a45.png",
+    "static/media/me.jpg": "/React-Portfolio/static/media/me.f2d56e10.jpg",
+    "static/media/weatherApp.JPG": "/React-Portfolio/static/media/weatherApp.48f47454.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.6294b3c9.js",
+    "static/js/runtime-main.0ad08de7.js",
     "static/js/2.57cb7ac9.chunk.js",
     "static/css/main.81006424.chunk.css",
-    "static/js/main.2fe2f1ae.chunk.js"
+    "static/js/main.dc9e7ea4.chunk.js"
   ]
 }
