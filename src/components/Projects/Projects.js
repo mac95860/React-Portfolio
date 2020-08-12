@@ -18,8 +18,8 @@ function Projects() {
                 <div className="card-body" id="portfolio">
 
                     <div className="row d-flex justify-content-around">
-                        <div className="card shadow firstRow portfolioItem" style={style.card}>
-                            <img src="../../images/Password-Gen.JPG" class="card-img-top" alt="Password Generator" />
+                        <div className="col-md-4 col-xs-12 card shadow firstRow portfolioItem " style={style.card}>
+                            <img src={require("../../images/Password-Gen.JPG")} className="card-img-top" alt="Password Generator" />
                             <div className="card-body">
                                 <p className="card-text">
                                     <a href="https://mac95860.github.io/Password-Generator/" target="_blank" className="siteLinks">Password Generator</a>
@@ -29,10 +29,10 @@ function Projects() {
                             </div>
                         </div>
 
-                        <div className="card shadow firstRow portfolioItem" style={style.card}>
-                            <img src="../../images/weatherApp.JPG" className="card-img-top" alt="Weather Application" />
+                        <div className="col-md-4 col-xs-12  card shadow firstRow portfolioItem" style={style.card}>
+                            <img src={require("../../images/weatherApp.JPG")} className="card-img-top" alt="Weather Application" />
                             <div className="card-body">
-                                <p class="card-text">
+                                <p className="card-text">
                                     <a href="https://mac95860.github.io/Weather-app/" target="_blank" className="siteLinks">Weather Application</a>
                                 that displays the weather of the city the user has requested.
                             </p>
@@ -42,10 +42,10 @@ function Projects() {
                     </div>
 
                     <div className="row d-flex justify-content-around mt-4">
-                        <div className="card shadow secondRow portfolioItem" style={style.card}>
-                            <img src="../../images/Inside-Outside.JPG" className="card-img-top" alt="Cocktail Generator" />
+                        <div className="col-md-4 col-xs-12 card shadow secondRow portfolioItem" style={style.card}>
+                            <img src={require("../../images/Inside-Outside.JPG")} className="card-img-top" alt="Cocktail Generator" />
                             <div className="card-body">
-                                <p class="card-text">
+                                <p className="card-text">
                                     <a href="https://mac95860.github.io/inside-or-outside/" target="_blank" className="siteLinks">Inside or Outside</a>
                             asks the user on whether or not they want to go outside.
                             Depending on their answer, it will return either the weather or a random cocktail.
@@ -54,8 +54,8 @@ function Projects() {
                             </div>
                         </div>
 
-                        <div className="card shadow secondRow portfolioItem" style={style.card}>
-                            <img src="../../images/Team Creator.png" className="card-img-top" alt="Cocktail Generator" />
+                        <div className="col-md-4 col-xs-12 card shadow secondRow portfolioItem" style={style.card}>
+                            <img src={require("../../images/Team Creator.png")} className="card-img-top" alt="Cocktail Generator" />
                             <div className="card-body">
                                 <p className="card-text">
                                     <a href="https://www.youtube.com/watch?v=ZyGGyhxkmWc" target="_blank" className="siteLinks">Create Your Team</a>
@@ -67,8 +67,8 @@ function Projects() {
                     </div>
 
                     <div className="row d-flex justify-content-around mt-4">
-                        <div className="card shadow secondRow portfolioItem" style={style.card}>
-                            <img src="../../images/Capture.JPG" className="card-img-top" alt="Cocktail Generator" />
+                        <div className="col-md-4 col-xs-12 card shadow secondRow portfolioItem" style={style.card}>
+                            <img src={require("../../images/Capture.JPG")} className="card-img-top" alt="Cocktail Generator" />
                             <div className="card-body">
                                 <p className="card-text">
                                     <a href="https://orm-burgers.herokuapp.com/" target="_blank">Eat-The-Burger</a>
@@ -78,8 +78,8 @@ function Projects() {
                             </div>
                         </div>
 
-                        <div className="card shadow secondRow portfolioItem" style={style.card}>
-                            <img src="../../images/NoteTaker.JPG" className="card-img-top" alt="Note Taker" />
+                        <div className="col-md-4 col-xs-12 card shadow secondRow portfolioItem" style={style.card}>
+                            <img src={require("../../images/NoteTaker.JPG")} className="card-img-top" alt="Note Taker" />
                             <div className="card-body">
                                 <p className="card-text">
                                     <a href="https://note-takingapplication.herokuapp.com/" target="_blank" className="siteLinks">Note Taker</a>

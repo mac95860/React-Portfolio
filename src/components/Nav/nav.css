@@ -10,6 +10,11 @@
     text-decoration-color: #9d4316 !important;
 }
 
+#Name {
+    text-decoration: underline !important;
+    text-decoration-color: #9d4316 !important;
+}
+
 a{
     color: #FAFAFA;
     text-decoration: underline;

@@ -23,6 +23,11 @@ h1{
 .display-1{
     text-decoration: underline;
     text-decoration-color:#9d4316;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 a{
